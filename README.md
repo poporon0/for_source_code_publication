@@ -8,7 +8,7 @@
 　　
 ### 🧊 ポートフォリオをご覧いただくために
 
-恐れ入りますが、「Data_analysis_using_the_Titanic_dataset.ipynb」ファイルをダウンロードいただき、Google Colaboratoryにアップロードをお願い致します。
+恐れ入りますが、「[Data_analysis_using_the_Titanic_dataset.ipynb](https://github.com/poporon0/for_source_code_publication/blob/main/Data_analysis_using_the_Titanic_dataset.ipynb)」ファイルをダウンロードいただき、Google Colaboratoryにアップロードをお願い致します。
 
 上から順番に▶のボタンを押していただくと、全てのコードが動作します。
 
